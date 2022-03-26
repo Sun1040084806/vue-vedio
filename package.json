@@ -1,5 +1,5 @@
 {
-  "name": "vue_test",
+  "name": "vue-video",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,13 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "vue": "^2.6.11"
+    "flv.js": "^1.6.2",
+    "less": "^4.1.2",
+    "less-loader": "^7.3.0",
+    "nanoid": "^3.1.30",
+    "videojs-contrib-hls": "^5.15.0",
+    "vue": "^2.6.11",
+    "vue-video-player": "^5.0.2"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
